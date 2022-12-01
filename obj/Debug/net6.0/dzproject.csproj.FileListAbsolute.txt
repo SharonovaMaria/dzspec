@@ -1,0 +1,15 @@
+/Users/maria/Desktop/Project/dzproject/obj/Debug/net6.0/dzproject.csproj.AssemblyReference.cache
+/Users/maria/Desktop/Project/dzproject/obj/Debug/net6.0/dzproject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maria/Desktop/Project/dzproject/obj/Debug/net6.0/dzproject.AssemblyInfoInputs.cache
+/Users/maria/Desktop/Project/dzproject/obj/Debug/net6.0/dzproject.AssemblyInfo.cs
+/Users/maria/Desktop/Project/dzproject/obj/Debug/net6.0/dzproject.csproj.CoreCompileInputs.cache
+/Users/maria/Desktop/Project/dzproject/bin/Debug/net6.0/dzproject
+/Users/maria/Desktop/Project/dzproject/bin/Debug/net6.0/dzproject.deps.json
+/Users/maria/Desktop/Project/dzproject/bin/Debug/net6.0/dzproject.runtimeconfig.json
+/Users/maria/Desktop/Project/dzproject/bin/Debug/net6.0/dzproject.dll
+/Users/maria/Desktop/Project/dzproject/bin/Debug/net6.0/dzproject.pdb
+/Users/maria/Desktop/Project/dzproject/obj/Debug/net6.0/dzproject.dll
+/Users/maria/Desktop/Project/dzproject/obj/Debug/net6.0/refint/dzproject.dll
+/Users/maria/Desktop/Project/dzproject/obj/Debug/net6.0/dzproject.pdb
+/Users/maria/Desktop/Project/dzproject/obj/Debug/net6.0/dzproject.genruntimeconfig.cache
+/Users/maria/Desktop/Project/dzproject/obj/Debug/net6.0/ref/dzproject.dll
